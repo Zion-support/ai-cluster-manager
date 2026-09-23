@@ -1,16 +1,10 @@
-# 🌐 Zion App Network — Interlinks
+# AI Cluster Manager
 
-**ai-cluster-manager** is part of the Zion Tech Group app network (630+ apps).
+Intelligent Kubernetes cluster management and resource optimization.
 
-- 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [Cost, FinOps & Cloud](https://github.com/Zion-support/zion-network/blob/main/network/cost-finops-cloud.md)
+## Network
+- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
+- Related: [k8s-pod-security-scanner](https://github.com/Zion-support/k8s-pod-security-scanner) · [k8s-yaml-linter](https://github.com/Zion-support/k8s-yaml-linter) · [ai-infrastructure-monitor](https://github.com/Zion-support/ai-infrastructure-monitor) · [ai-capacity-planner](https://github.com/Zion-support/ai-capacity-planner) · [zion-ai-cost-optimizer](https://github.com/Zion-support/zion-ai-cost-optimizer)
 
-## Related apps
-- [k8s-yaml-linter](https://github.com/Zion-support/k8s-yaml-linter) — Kubernetes misconfiguration and cost hints
-- [k8s-pod-security-scanner](https://github.com/Zion-support/k8s-pod-security-scanner) — Pod Security Standards scanning
-- [ai-cloud-optimizer](https://github.com/Zion-support/ai-cloud-optimizer) — Cloud cost optimization
-- [ai-compute-optimizer](https://github.com/Zion-support/ai-compute-optimizer) — GPU/TPU cost reduction
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
-
----
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
