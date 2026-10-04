@@ -1,17 +1,32 @@
-# ai-cluster-manager
-Intelligent Kubernetes cluster management and resource optimization.
+# ☸️ AI Cluster Manager
 
-🌐 **Live:** https://ai-cluster-manager.ziontechgroup.com
+Kubernetes & VM fleet operations — part of the **Zion Tech Group AI App Network** (320+ free flagship apps).
 
-## 🌐 Part of the Zion App Network
-- 🗂️ Master directory: [Zion App Network](https://github.com/Zion-support/zion-app-network) — live at https://ziontechgroup.com/zion-app-network/
-- 📂 Category: [Dev & Ops Tools](https://github.com/Zion-support/zion-network/blob/main/network/dev-ops-tools.md)
-- 💼 Plans & pricing: https://ziontechgroup.com/en/plans/ · 📞 Discovery call: https://ziontechgroup.com/discovery/
+- 🌐 Live app: https://ziontechgroup.com/ai-cluster-manager/
+- 🧭 Free Discovery (online & free, instant results emailed to you): https://ziontechgroup.com/discovery/
+- 🗂️ Network hub: https://github.com/Zion-support/zion-network · Showcase: https://ziontechgroup.com/apps/network.html
 
-**Related apps:**
-- [ai-compute-optimizer](https://github.com/Zion-support/ai-compute-optimizer) — https://ai-compute-optimizer.ziontechgroup.com
-- [ai-infrastructure-monitor](https://github.com/Zion-support/ai-infrastructure-monitor) — https://ziontechgroup.com/ai-infrastructure-monitor/
-- [ai-capacity-planner](https://github.com/Zion-support/ai-capacity-planner) — https://ai-capacity-planner.ziontechgroup.com
+## What it does
+Visualizes cluster health across hybrid fleets; automates balancing, upgrades and policy enforcement; plans headroom from [AI Capacity Planner](https://github.com/Zion-support/ai-capacity-planner) forecasts and watches workload anomalies via [AI Infrastructure Monitor](https://github.com/Zion-support/ai-infrastructure-monitor).
+
+## Key features
+- Multi-cluster inventory with drift detection
+- Automated upgrade windows and rollback guardrails
+- OPA/policy-as-code enforcement and audit logs
+
+## ITOps AI suite (Batch 72)
+| App | Focus |
+|---|---|
+| [AI Infrastructure Monitor](https://github.com/Zion-support/ai-infrastructure-monitor) | Anomaly detection for infra |
+| [AI Capacity Planner](https://github.com/Zion-support/ai-capacity-planner) | Capacity forecasting |
+| **AI Cluster Manager** (this repo) | Kubernetes/VM fleet ops |
+| [AI Backup Integrity](https://github.com/Zion-support/ai-backup-integrity) | Backup verification |
+
+## Adjacent suites
+- **Energy & Facilities AI:** [Energy Consumption Forecaster](https://github.com/Zion-support/energy-consumption-forecaster) · [Solar ROI Optimizer](https://github.com/Zion-support/solar-roi-optimizer) · [Grid Demand Balancer](https://github.com/Zion-support/grid-demand-balancer) · [Building Efficiency Auditor](https://github.com/Zion-support/building-efficiency-auditor)
+- **HR & Workforce AI:** [Shift Scheduler AI](https://github.com/Zion-support/shift-scheduler-ai) · [Recruiting Screening AI](https://github.com/Zion-support/recruiting-screening-ai) · [Employee Sentiment Pulse](https://github.com/Zion-support/employee-sentiment-pulse) · [HR Onboarding Copilot](https://github.com/Zion-support/hr-onboarding-copilot)
 
 ---
-© 2026 Zion Tech Group · https://ziontechgroup.com/
+- 🏠 https://ziontechgroup.com · 💰 Plans: https://ziontechgroup.com/en/plans/ · 💼 commercial@ziontechgroup.com
+
+© 2026 Zion Tech Group — MIT
